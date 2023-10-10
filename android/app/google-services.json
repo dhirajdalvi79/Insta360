@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106986205292",
+    "project_id": "ig360-9e6bc",
+    "storage_bucket": "ig360-9e6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106986205292:android:c9cd54bcf4b05a5a682849",
+        "android_client_info": {
+          "package_name": "com.example.insta360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106986205292-32scou3akq1dstoc070vn6euds4m337b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2mF5eKUXzU59dEZe8khTm9HmECq6XMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106986205292-32scou3akq1dstoc070vn6euds4m337b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
