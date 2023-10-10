@@ -1,6 +1,6 @@
 # insta360
 
-Instagram with 360 view
+Instagram with 360 view.....
 
 ## Getting Started
 
