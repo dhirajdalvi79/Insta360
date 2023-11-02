@@ -1,16 +1,23 @@
 # insta360
 
-Instagram with 360 view.....
+I have made this instagram lookalike app, but the difference is that post content is of 360° panoramic image and 360° video view.
 
-## Getting Started
+I have tried to implement all features but completed features are:
+- Log In
+- Sign Up (registration)
+- Add posts
+- Like and comment posts
+- Send and receive follow requests
+- Chat
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Following are the features which are incomplete which has to be done:
+- Explore screen and search
+- VR view
+- Circular progress bar for asynchronous events
+- Send post in chat
+- save post
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I have used Google's firestore firebase for backend, as cloud functions comes under the paid tier so I used firebase only for data storage and all the processing of data are done in flutter side code.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Following are screen recordings of the app:
