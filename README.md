@@ -18,6 +18,6 @@ Following are the features which are incomplete which has to be done:
 - Send post in chat
 - save post
 
-I have used Google's firestore firebase for backend, as cloud functions comes under the paid tier so I used firebase only for data storage and all the processing of data are done in flutter side code.
+I have used Google's firestore firebase for backend, as cloud functions comes under the paid plan so I used firebase only for data storage and all the processing of data are done in flutter side code.
 
 Following are screen recordings of the app:
