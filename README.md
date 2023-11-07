@@ -21,3 +21,7 @@ Following are the features which are incomplete which has to be done:
 I have used Google's firestore firebase for backend, as cloud functions comes under the paid plan so I used firebase only for data storage and all the processing of data are done in flutter side code.
 
 Following are screen recordings of the app:
+
+<img src="https://drive.google.com/file/d/1CCd6AD3xU_5rp3ErqQXjXO1O-8z4CU2S/view?usp=sharing" alt="Girl in a jacket" width="500" height="600">
+
+![image](https://drive.google.com/file/d/1CCd6AD3xU_5rp3ErqQXjXO1O-8z4CU2S/view?usp=sharing)
