@@ -31,4 +31,4 @@ Following are screen recordings of the app:
   Your browser does not support the html video tag.  
 </video>
 
-![video](https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr.mp4)
+![video](https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr)
