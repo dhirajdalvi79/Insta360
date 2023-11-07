@@ -23,7 +23,8 @@ I have used Google's firestore firebase for backend, as cloud functions comes un
 ### Following are screen recordings of the app:
 ### Click on the screenshots below to view video.
 
-
+<br>
+<br>
 
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/ig360-9e6bc.appspot.com/o/github%2FInsta360%2FMain%20screen%20(play).png?alt=media&token=46ee657e-d6d5-4fc2-8caf-7bbaeb11f22e&_gl=1*1h0sfyk*_ga*MTcwMDE5Nzc1NC4xNjczNzc5OTQ0*_ga_CW55HF8NVT*MTY5OTM5Mzk0MS4xMjMuMS4xNjk5Mzk0MDU3LjkuMC4w.png" target="_blank" alt="Main screen" width="315" height="700">](https://drive.google.com/file/d/15bfuewx8UXMsQU_ShDvTW3nvPD4NX6lh/view?usp=sharing)&nbsp;&nbsp;&nbsp;
