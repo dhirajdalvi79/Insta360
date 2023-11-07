@@ -30,3 +30,5 @@ Following are screen recordings of the app:
   <source src="https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr" type="video/mp4">  
   Your browser does not support the html video tag.  
 </video>
+
+![video](https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr)
