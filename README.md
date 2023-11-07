@@ -27,8 +27,8 @@ Following are screen recordings of the app:
 ![image](https://firebasestorage.googleapis.com/v0/b/ig360-9e6bc.appspot.com/o/PnWepZTMLtTbEjmCLXo6p5qNXfP2%2Fprofile_image%2Fuser_profile_image?alt=media&token=6284a2c2-d05e-4ac9-a73d-73f81ce82b4b&_gl=1*13flwgh*_ga*MTcwMDE5Nzc1NC4xNjczNzc5OTQ0*_ga_CW55HF8NVT*MTY5OTM3NzU2NC4xMjEuMS4xNjk5Mzc3NjMyLjU1LjAuMA...png)
 
 <video controls>  
-  <source src="https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr" type="video/mp4">  
+  <source src="https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr.mp4" type="video/mp4">  
   Your browser does not support the html video tag.  
 </video>
 
-![video](https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr)
+![video](https://youtu.be/VRTMapt2I7c?si=MBH7x2Q0UyCibiPr.mp4)
