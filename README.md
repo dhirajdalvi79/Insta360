@@ -22,6 +22,6 @@ I have used Google's firestore firebase for backend, as cloud functions comes un
 
 Following are screen recordings of the app:
 
-<img src="https://drive.google.com/file/d/1CCd6AD3xU_5rp3ErqQXjXO1O-8z4CU2S/view?usp=sharing" alt="Girl in a jacket" width="500" height="600">
+<img src="https://drive.google.com/file/d/1CCd6AD3xU_5rp3ErqQXjXO1O-8z4CU2S/view?usp=sharing" target="_blank" alt="Girl in a jacket" width="500" height="600">
 
 ![image](https://drive.google.com/file/d/1CCd6AD3xU_5rp3ErqQXjXO1O-8z4CU2S/view?usp=sharing)
