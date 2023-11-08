@@ -16,7 +16,8 @@ Following are the features which are incomplete which has to be done:
 - VR view
 - Circular progress bar for asynchronous events
 - Send post in chat
-- save post
+- Save post
+- Stories
 
 I have used Google's firestore firebase for backend, as cloud functions comes under the paid plan so I used firebase only for data storage and all the processing of data are done in flutter side code.
 
